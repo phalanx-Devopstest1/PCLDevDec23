@@ -4,7 +4,6 @@
 		<Items>
 			<Item Name="Caption" Value="Pcl Realty Type (ClassicUI)" />
 			<Item Name="Columns.PclCode.Caption" Value="Code" />
-			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
 		</Items>
 	</Group>
 </Resources>
