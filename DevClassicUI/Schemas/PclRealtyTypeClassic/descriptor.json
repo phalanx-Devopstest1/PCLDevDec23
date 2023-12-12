@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f03faaac-53c1-47a6-9edd-dea24ab9cec1",
+    "Name": "PclRealtyTypeClassic",
+    "ModifiedOnUtc": "\/Date(1702379456000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Pcl Realty Type (ClassicUI)"
+  }
+}
